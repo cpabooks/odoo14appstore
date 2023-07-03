@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'Cancel Invoice Cancel Account Payment',
-    "author": "Edge Technologies",
+    'name': 'Cancel Invoice Cancel Account Payment and reset to draft',
+    "author": "Nano Technology Software",
     'version': '14.0.1.1',
     'live_test_url': "https://youtu.be/uOSKKPrAzPY",
     "images":['static/description/main_screenshot.png'],
     "summary" : 'Invoice Cancel Payment Cancel Journal Entry Cancel Journal Entries Customer Invoice Cancel Vendor Bill Cancel Bill Payment Cancel Invoicing Cancel Accounting Payment Cancel All in One Account Cancel Delete Invoice Delete Payment',
     'description': """ 
-        Cancel Invoice | Cancel Payment
+        Cancel Invoice | Cancel Payment | Reset to Draft
     """,
     "license" : "OPL-1",
     'depends': ['base','sale_management'],
