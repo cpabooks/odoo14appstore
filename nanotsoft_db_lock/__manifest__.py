@@ -13,6 +13,7 @@
     'version': '15.0',
     "category": "web",
     "author": "cpabooks",
+    "images": ['static/description/main_screenshot.png'],
     "depends": [
         'web',
     ],
@@ -23,5 +24,5 @@
     "application": False,
     "installable": True,
     "auto_install": False,
-    "images":['static/description/main_screenshot.png'],
+
 }
