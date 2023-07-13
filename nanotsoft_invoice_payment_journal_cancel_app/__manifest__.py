@@ -26,5 +26,6 @@
     'currency': "EUR",
     'category': 'Accounting',
 
+
 }
 
