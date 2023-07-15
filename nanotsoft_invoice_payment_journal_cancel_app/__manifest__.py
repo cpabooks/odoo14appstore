@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'Cancel Invoice, Payment, Journal, Reset to draft even Delete',
+    'name': 'Nanotsoft Cancel Invoice, Payment, Journal, Reset to draft even Delete',
     "author": "Nano Tech Soft",
     'version': '14.0.1.1',
     'live_test_url': "https://youtu.be/uOSKKPrAzPY",

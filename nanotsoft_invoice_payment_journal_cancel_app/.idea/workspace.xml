@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fae2ec8b-2831-42a5-b5f6-47bda70abd6f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nanotsoft_db_lock/static/description/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../nanotsoft_db_lock/static/description/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +26,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/Github/odoo14appstore/nanotsoft_db_lock",
+    "last_opened_file_path": "E:/Github/enterprise/odoo/addons",
     "settings.editor.selected.configurable": "proofread"
   }
 }]]></component>
