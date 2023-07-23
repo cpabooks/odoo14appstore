@@ -16,7 +16,7 @@
         'views/assets.xml',
     ],
     'qweb': [],
-    'images' : ['static/description/banner.png'],
+    'images' : ['static/description/banner.jpeg'],
     'installable': True,
     'live_test_url': 'https://www.youtube.com/',
     'price': 47.99,
